@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="wheatherYahoo">
+    <Basepaths>/wheatheryahoo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1398748901949</CreatedAt>
+    <CreatedBy>anuja.kumar.pradhan@accenture.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>wheatherYahoo</DisplayName>
+    <LastModifiedAt>1425298905258</LastModifiedAt>
+    <LastModifiedBy>anuja.kumar.pradhan@accenture.com</LastModifiedBy>
+    <Policies>
+        <Policy>InvalidAccessTokenRaiseFault</Policy>
+        <Policy>OAuth-v20-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>
